@@ -19,6 +19,10 @@ To achieve this, the analysis answers the following key questions:
 - What skills are most in demand across both roles?
 - What are the most optimal skills to learn (high demand + high salary)?
 
+# Dataset
+
+The complete dataset used for this analysis can be accessed here:
+[Download Dataset](https://drive.google.com/file/d/1o5bdYPYn2Ukoc9TBqIwm4AQPj-eJOwze/view?usp=sharing)
 # Tools I used 
 This project leverages SQL (PostgreSQL) and Excel to analyze the 2023 job postings for Data Analysts and Data Scientists:
 
@@ -97,7 +101,7 @@ However, Data Scientists show greater salary variation and stronger long-term ea
   <img src="images/Toppaying companies_DS.png" width="45%"/>
 </p>
 
-##### ** Some job postings did not include salary information, which may have slightly affected the overall salary analysis and averages.**
+#### ** Some job postings did not include salary information, which may have slightly affected the overall salary analysis and averages.**
 
 #### 1. Salary Trends & Earnings Distribution
 - Data Scientists show much stronger earning potential overall, with multiple roles exceeding $500K and more consistent salary growth, while Data Analysts peak significantly lower, typically around $180K–$255K, even at senior and director levels with only rare high-paying outliers.
@@ -145,8 +149,6 @@ However, SQL dominates Data Analyst postings, while Python dominates Data Scient
   <img src="images/Top25_Optimal Skills_DA.png" width="45%"/>
   <img src="images/Top25_Optimal Skills_DS.png" width="45%"/>
 </p>
-
-----
 
 - High-paying Data Analyst roles are evolving beyond traditional reporting into analytics engineering and cloud-enabled workflows, with strong demand for skills such as SQL, Snowflake, Databricks, Pandas, Power BI, and Tableau. 
 
